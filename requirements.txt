@@ -9,3 +9,4 @@ numpy==1.21.5
 pillow
 bs4
 datetime
+pytz
